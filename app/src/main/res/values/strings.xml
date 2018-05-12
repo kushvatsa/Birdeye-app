@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BirdEye</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_check_in">CheckIn</string>
+    <string name="v_fname">First Name:</string>
+    <string name="v_lname">Last Name:</string>
+    <string name="v_email">Email:</string>
+    <string name="v_phone">Phone:</string>
+    <string name="v_Check">Check</string>
+    <string name="click_delete">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="content_authority" translatable="false">com.kushvatsa.birdeye</string>
+    <string name="hint_name">Any Name</string>
+    <string name="hint_email">anyname@gmail.com</string>
+    <string name="hint_phone">9876543210</string>
+    <string name="hint_down">click down</string>
+    <string name="content_description_app_loading_image" translatable="false">App loading image</string>
+    <string name="empty_text">No records</string>
+    <string name="sort_by_a_z">Sort by A-Z</string>
+    <string name="sort_by_z_a">Sort by Z-A</string>
+    <string name="no_matching_records_found">No Matching records found</string>
+    <string name="refresh">Refresh</string>
+</resources>
